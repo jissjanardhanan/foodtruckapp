@@ -1,0 +1,23 @@
+{
+  "name": "foodtruckapp",
+  "version": "1.0.0",
+  "description": "A commandline app to display list of food trucks which are open at any given hour",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jissjanardhanan/foodtruckapp.git"
+  },
+  "keywords": [
+    "food",
+    "truck"
+  ],
+  "author": "jissjanardhanan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jissjanardhanan/foodtruckapp/issues"
+  },
+  "homepage": "https://github.com/jissjanardhanan/foodtruckapp#readme"
+}
