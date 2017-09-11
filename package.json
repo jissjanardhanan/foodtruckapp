@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/jissjanardhanan/foodtruckapp.git"
   },
+  "bin": {
+    "show-open-food-trucks": "./index.js"
+  },
   "keywords": [
     "food",
     "truck"
@@ -19,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/jissjanardhanan/foodtruckapp/issues"
   },
-  "homepage": "https://github.com/jissjanardhanan/foodtruckapp#readme"
+  "homepage": "https://github.com/jissjanardhanan/foodtruckapp#readme",
+  "dependencies": {
+    "easy-table": "^1.1.0",
+    "inquirer": "^3.2.3",
+    "superagent": "^3.6.0"
+  }
 }
