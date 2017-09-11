@@ -7,10 +7,7 @@ Once you have node installed clone or download the foodtruckapp to your machine.
 
 You can install foodtruckapp using the following command after moving into installation directory
 
-``` npm install -g ```
-or 
-``` npm link ```
-if you just want to try it out
+``` sudo npm install -g ``` to install it
 
 This will create a symlink and you should be able to run the following command to run the program from your terminal
 
