@@ -1,0 +1,8 @@
+
+If this app was for a web app
+
+For a web app there should be a default page where it should list open food trucks at the time when page is loaded and
+it should be refreshed periodically(hourly). We should request the get the location from browser and sort the listings by nearest location 
+to the user. It should have a search by which user is able to search by the kind of food or business name.it should also have an option to
+see the trucks currently available on a map with location markers on which user is able to click and get more details. Web app should 
+allow user to store his favourite trucks and their availability on all locations
