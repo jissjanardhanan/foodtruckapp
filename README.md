@@ -12,7 +12,7 @@ or
 ``` npm link ```
 if you just want to try it out
 
-This will create a symlink and you should be able to run the following command to run the program
+This will create a symlink and you should be able to run the following command to run the program from your terminal
 
 ```show-open-food-trucks```
 
